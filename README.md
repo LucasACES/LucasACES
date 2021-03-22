@@ -1,5 +1,6 @@
 # Lucas César 👨‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasACES&show_icons=true&theme=radical)
+<img height="199em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucasACES&layout=compact&langs_count=8&theme=radical"/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-cesar-2020k/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucas.ca.02/)
