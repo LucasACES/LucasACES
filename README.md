@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h1 align="center">Hi there 🤙, I'm Lucas</h1>
 <h3 align="center">An student passionate for python 🐍</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasaces&label=Profile%20views&color=0e75b6&style=flat" alt="lucasaces" /> </p>
 
 - 🔭 I’m currently working on [GSW Dashboard](https://github.com/Time-1-ADS/ProjetoGSW)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** 
 
 - 👨‍💻 All of my projects are available at [https://lucasaces.github.io/](https://lucasaces.github.io/)
 
@@ -27,3 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasaces&show_icons=true&locale=en&theme=dracula" alt="lucasaces" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasaces&label=Profile%20views&color=0e75b6&style=flat" alt="lucasaces" /> </p>
