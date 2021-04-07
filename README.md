@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 🤙, I'm Lucas</h1>
+<h1 align="center">Hi there 🤙, I'm Lucas <img src="https://github.com/LucasACES/LucasACES/blob/main/img/banguela-unscreen.gif" width="70px"/></h1> 
 <h3 align="center">An student passionate for python 🐍</h3>
 
 - 🔭 I’m currently working on [GSW Dashboard](https://github.com/Time-1-ADS/ProjetoGSW)
