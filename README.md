@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript** 
 
-- 👨‍💻 All of my projects are available at [https://lucasaces.github.io/](https://lucasaces.github.io/)
+- 👨‍💻 All of my projects are available at [LucasACES](https://lucasaces.github.io/)
 
 - 📫 How to reach me **lucasc.a01@outlook.com**
 
@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasaces&show_icons=true&locale=en&theme=dracula" alt="lucasaces" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasaces&label=Profile%20views&color=0e75b6&style=flat" alt="lucasaces" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasaces&label=Profile%20views&color=0e75b6&style=flat" alt="lucasaces" width="150px"/> </p>
