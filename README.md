@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GSW Dashboard](https://github.com/Time-1-ADS/ProjetoGSW)
 
-- 🌱 I’m currently learning **JavaScript** 
+- 🌱 I’m currently learning **Flask** 
 
 - 👨‍💻 All of my projects are available at [LucasACES](https://lucasaces.github.io/)
 
