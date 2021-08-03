@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 🤙, I'm Lucas <img src="https://github.com/LucasACES/LucasACES/blob/main/img/banguela-unscreen.gif" width="70px"/></h1> 
 <h3 align="center">An student passionate for python 🐍</h3>
 
-- 🔭 I’m currently working on [GSW Dashboard](https://github.com/Time-1-ADS/ProjetoGSW)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Flask** 
+- 🌱 I’m currently learning 
 
 - 👨‍💻 All of my projects are available at [LucasACES](https://lucasaces.github.io/)
 
