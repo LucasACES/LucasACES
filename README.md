@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 🤙, I'm Lucas <img src="https://github.com/LucasACES/LucasACES/blob/main/img/banguela-unscreen.gif" width="70px"/></h1> 
 <h3 align="center">An student passionate for python 🐍</h3>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on [ProjetoNESS](https://github.com/Time-1-ADS/PROJETO-NESS)
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning [Python](https://www.python.org)
 
 - 👨‍💻 All of my projects are available at [LucasACES](https://lucasaces.github.io/)
 
-- 📫 How to reach me **lucasc.a01@outlook.com**
+- 📫 How to reach me **atomo.lambert_0q@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
