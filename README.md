@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaces&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="lucasaces" width="398px" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasaces&show_icons=true&locale=en&theme=midnight-purple" alt="lucasaces" width="400px"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasaces&show_icons=true&locale=en&theme=midnight-purple" alt="lucasaces" width="479px"/></p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasaces&label=Profile%20views&color=0e75b6&style=flat" alt="lucasaces" /> </p>
