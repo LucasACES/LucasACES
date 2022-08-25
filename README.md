@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ☁️
 
-- 🌱 I’m currently learning [JAVA](https://dev.java/learn/)
+- 🌱 I’m currently learning [Java](https://dev.java/learn/)
 
 - 👨‍💻 All of my projects are available at ⚠️BUILDING⚠️
 
