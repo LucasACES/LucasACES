@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 🤙, I'm Lucas <img src="https://github.com/LucasACES/LucasACES/blob/main/img/banguela-unscreen.gif" width="70px"/></h1> 
-<h3 align="center">An student passionate for python 🐍</h3>
+
 
 - 🔭 I’m currently working on ☁️
 
 - 🌱 I’m currently learning [Java](https://dev.java/learn/)
-
-- 👨‍💻 All of my projects are available at ⚠️BUILDING⚠️
 
 - 📫 How to reach me **lucasaces@outlook.com**
 
