@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 🤙, I'm Lucas <img src="https://github.com/LucasACES/LucasACES/blob/main/img/banguela-unscreen.gif" width="70px"/></h1> 
 
 
-- 🔭 I’m currently working on [eHealth Hospital](https://github.com/lucasaces/ehealth-hospital)
+- 🔭 I’m currently working on [eHealth Portal](https://github.com/lucasaces/ehealth-portal)
 
 - 📫 How to reach me **lucasaces@outlook.com**
 
