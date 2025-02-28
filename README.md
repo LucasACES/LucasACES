@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://codepen.io/lucasaces" target="blank"><img align="center" src="https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="lucasaces" height="30" width="100" /></a>
 <a href="https://linkedin.com/in/lucasaces" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasaces" height="30" width="100" /></a>
-<a href="https://instagram.com/lucasaces" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="lucasaces" height="30" width="100" /></a>
+<a href="https://instagram.com/ssh_lucasaces" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="ssh_lucasaces" height="30" width="100" /></a>
 </p>
 
 
