@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [eHealth Portal](https://github.com/lucasaces/ehealth-portal)
 
-- 📫 How to reach me **lucasaces@outlook.com**
+- 📫 How to reach me **contato@divinustech.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
