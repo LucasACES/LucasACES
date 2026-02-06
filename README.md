@@ -21,7 +21,7 @@
 
 <h3>Badges: </h3>
 
-<img src="https://github.com/LucasACES/LucasACES/blob/main/img/MicrosoftAISkillsFestGWRAttemptBadge%5Bfull%5D.png" width="100" height="100"/>
+<img src="https://github.com/LucasACES/LucasACES/blob/main/img/MicrosoftAISkillsFestGWRAttemptBadge%5Bfull%5D.png" width="100" height="100"/> <img src="https://github.com/LucasACES/LucasACES/blob/main/img/ipbiia-Badge-LinkedIn.png" width="100" height="100"/>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasaces&label=Profile%20views&color=0e75b6&style=flat" alt="lucasaces" /> </p>
