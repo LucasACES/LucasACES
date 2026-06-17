@@ -109,8 +109,10 @@ class LucasAces:
 ## 🏅 Certificações & Badges
 
 <div align="center">
-  <img src="https://github.com/LucasACES/LucasACES/blob/main/img/MicrosoftAISkillsFestGWRAttemptBadge%5Bfull%5D.png" width="100" height="100" title="Microsoft AI Skills Fest"/>
+  <img src="https://github.com/LucasACES/LucasACES/blob/main/img/MicrosoftAISkillsFestGWRAttemptBadge%5Bfull%5D.png" width="100" height="100" title="Microsoft AI Skills Fest 2025"/>
   <img src="https://github.com/LucasACES/LucasACES/blob/main/img/ipbiia-Badge-LinkedIn.png" width="100" height="100" title="IPBII AI Badge"/>
+  <img src="https://raw.githubusercontent.com/LucasACES/LucasACES/refs/heads/main/img/ai-skills-fest-2026.png" width="100" height="100" title="Microsoft AI Skills Fest 2026"/>
+  
 </div>
 
 ---
