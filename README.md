@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Contact badges -->
-<a href="mailto:contato@divinustech.com.br">
+<a href="mailto:lucasaces@outlook.com">
   <img src="https://img.shields.io/badge/Email-contato%40divinustech.com.br-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/lucasaces">
