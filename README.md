@@ -12,7 +12,7 @@
 
 <!-- Contact badges -->
 <a href="mailto:lucasaces@outlook.com">
-  <img src="https://img.shields.io/badge/Email-contato%40divinustech.com.br-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-lucasaces%40outlook.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/lucasaces">
   <img src="https://img.shields.io/badge/LinkedIn-lucasaces-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
