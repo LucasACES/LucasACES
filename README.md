@@ -37,16 +37,14 @@ class LucasAces:
     def __init__(self):
         self.role       = ["Data Engineer", "Back-end Developer"]
         self.stack      = ["Python", "Flask", "Oracle SQL", "PostgreSQL", "dbt"]
-        self.domain     = "Healthcare Data"
         self.location   = "Brasil 🇧🇷"
-        self.contact    = "contato@divinustech.com.br"
+        self.contact    = "lucasaces@outlook.com"
 
     def current_focus(self):
         return [
             "Pipelines de dados hospitalares (Tasy / Oracle)",
             "Extração, transformação e entrega de dados sanitizados",
-            "Back-end com Python, Flask e PostgreSQL",
-            "Exploração de dbt, Metabase e Prefect",
+            "Back-end com Python, Flask e PostgreSQL"
         ]
 
     def say_hi(self):
